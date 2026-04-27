@@ -1,6 +1,6 @@
 name: flutter_app_update_lib
-description: "Flutter app update project."
-version: 0.0.2
+description: "A Flutter plugin that provides seamless in-app update support for Android (native Play Store flow) and iOS (custom update dialog with App Store redirect)."
+version: 0.0.4
 homepage: https://github.com/whizpool/Flutter-App-Update
 
 environment:
